@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/jmoua01/github-upload.git
+add .
+git cimmit -m "initializing repository"
+git push -u origin master 
